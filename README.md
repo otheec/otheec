@@ -1,2 +1,2 @@
-OOP and Cyber Security Enthusiast
-Java, C#, JavaScript
+**OOP and Cyber Security Enthusiast**
+*Languages*: Java, C#, JavaScript
