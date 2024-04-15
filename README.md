@@ -1,3 +1,3 @@
-**OOP and Cyber Security Student/Enthusiast** <br>
-*Languages*: Java, C#, JavaScript <br>
+**Applied Informatics student** <br>
+*Languages*: Java, C#, TypeScript <br>
 [LinkedIn](https://www.linkedin.com/in/otmar-nezdaril/)
